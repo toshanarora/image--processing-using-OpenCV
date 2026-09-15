@@ -2,7 +2,7 @@
 
 A small Python project that runs a bunch of classic image processing operations on a single input image and saves a "before vs after" comparison for each one.
 
-I built this to get a hands-on feel for how pixel values and image coordinates actually get manipulated under the hood — instead of just reading about it. It covers both intensity-based operations (brightness, contrast, thresholding, etc.) and geometric transformations (rotation, scaling, shearing, and so on) — 16 operations in total.
+I built this to get a hands-on feel for how pixel values and image coordinates actually get manipulated under the hood :instead of just reading about it. It covers both intensity-based operations (brightness, contrast, thresholding, etc.) and geometric transformations (rotation, scaling, shearing, and so on) — 16 operations in total.
 
 ---
 
